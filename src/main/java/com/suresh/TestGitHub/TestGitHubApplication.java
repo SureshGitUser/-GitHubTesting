@@ -8,7 +8,8 @@ public class TestGitHubApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TestGitHubApplication.class, args);
-		System.out.println("welcome to Gradle!");
+		System.out.println("welcome to Gradle Latest!");
+		
 	}
 
 }
